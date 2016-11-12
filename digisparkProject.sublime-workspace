@@ -1,0 +1,756 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "package install",
+		"selected_items":
+		[
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"git logt",
+				"Git: Log Current File"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"git history",
+				"Git: Commit history"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/robwilliams/Documents/projects/family/cameron/2016/digispark"
+	],
+	"file_history":
+	[
+		"/Users/robwilliams/Downloads/zener_diodes.txt",
+		"/Users/robwilliams/bin/google_appengine/google/appengine/tools/devappserver2/python/sandbox.py",
+		"/Users/robwilliams/Documents/projects/notes/corporate/williwood/agfa/timesheets/2016.05.16.txt",
+		"/Users/robwilliams/Documents/projects/notes/corporate/williwood/agfa/timesheets/2016.05.09.txt",
+		"/Users/robwilliams/.ssh/config",
+		"/Users/robwilliams/Documents/projects/notes/corporate/williwood/agfa/2016.05.12 Job Folder Demo.txt",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.11.10 Timesheet.txt",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.11.17 Timesheet.txt",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.10.27 Timesheet.txt",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.11.03 Timesheet.txt",
+		"/Users/robw/Documents/projects/notes/bell/android/2014.10.22 Critical Bugs.txt",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.10.20 Timesheet.txt",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.10.06 Timesheet.txt",
+		"/Users/robw/Documents/projects/bell/android/future/android-test-ui/trace2",
+		"/Users/robw/Documents/projects/bell/android/future/android-test-ui/trace",
+		"/Users/robw/Downloads/binFiles/QP-6.23.1.277_20140904_NWMVA_NoLOGO_APPID_1.bin",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/submodules/android/vstb-core/src/main/com/quickplay/vstb/service/drm/authentec/AuthentecAgent.java",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/submodules/android/plugins/vstb-plugin-nexplayer/pom.xml",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/zkm_script.txt",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/submodules/android/pom.xml",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/pom.xml",
+		"/Users/robw/Documents/projects/notes/bell/2014.10.16 Heartbeat Meeting.txt",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.10.13 Timesheet.txt",
+		"/Users/robw/Downloads/binFiles/QP-6.23.1.277_20140904_NWMVA_NoLOGO_APPID_1_UPDATED.bin",
+		"/Users/robw/Documents/projects/notes/notes.sublime-project",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/tracePL",
+		"/Users/robw/test.java",
+		"/tmp/playbackFail",
+		"/Users/robw/tcpDumpTablet",
+		"/Users/robw/Documents/projects/notes/bell/2014.10.07 Unit Testing Framework.txt",
+		"/Users/robw/Documents/projects/bell/android/future/android-test-ui/.classpath2",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.09.15 Timesheet.txt",
+		"/Users/robw/Documents/projects/notes/bell/blackberry/2014.09.27 BB10 Firewall configuration.txt",
+		"/Users/robw/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/robw/Desktop/ourList.txt",
+		"/Users/robw/Desktop/another.txt",
+		"/Users/robw/Documents/projects/bell/bb10/reRelease20140929/requestTokenForYinTing",
+		"/Users/robw/Documents/projects/notes/bell/android/2014.09.25 Meeting with Pivotal.txt",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.09.29 Timesheet.txt",
+		"/tmp/trace",
+		"/Users/robw/Documents/projects/bell/bb10/reRelease20140929/package-debug",
+		"/Users/robw/Documents/projects/bell/bb10/2014.09.30/index-20.m3u8",
+		"/Users/robw/Documents/projects/notes/bell/blackberry/2014.09.27 iptables.txt",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.07.28 Timesheet.txt",
+		"/Users/robw/Documents/projects/notes/bell/2014.09.12 Using Mongo.txt",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.09.22 Timesheet.txt",
+		"/Users/robw/hmm/trace",
+		"/Users/robw/trace",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.08.18 Timesheet.txt",
+		"/Users/robw/Documents/projects/bell/bb10/reRelease20140911/unzipped/native/bar-descriptor.xml",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.09.01 Timesheet.txt",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.09.08 Timesheet.txt",
+		"/Users/robw/Documents/projects/notes/bell/2014.08.13 Meeting with PL.txt",
+		"/Users/robw/Documents/projects/notes/bell/blackberry/2014.09.05 Technical Discussion with PL+BB.txt",
+		"/Users/robw/Documents/projects/notes/bell/android/2014.09.05 Phone with Bal.txt",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.08.25 Timesheet.txt",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/debug/pom.xml",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/debug/src/com/quickplay/vstb/bell/config/exposed/BellLibraryManager.java",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/release/src/com/quickplay/vstb/bell/config/exposed/BellLibraryManager.java",
+		"/Users/robw/Documents/projects/rogers/bb10/raptv/raptv-bb10/RAPTVLive/bar-descriptor.xml",
+		"/Users/robw/log.txt",
+		"/Users/robw/Documents/projects/bell/android/future/android-test-ui/src/com/quickplay/android/vstb/belltestapp/MyApplication.java",
+		"/Users/robw/Downloads/unzippedAPK/com/quickplay/android/vstb/belltestapp/MyApplication.dump.txt",
+		"/Users/robw/bin/gitGo",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.07.21 Timesheet.txt",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.07.07 Timesheet.txt",
+		"/Users/robw/Documents/projects/rogers/bb10/raptv/raptv-bb10/RAPTVLive/precompiled.h",
+		"/Users/robw/Documents/projects/rogers/bb10/raptv/builds/fred/trace",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.08.11 Timesheet.txt",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.07.14 Timesheet.txt",
+		"/Users/robw/Documents/projects/notes/timesheets/Semi-Monthly_Invoice_ON_Granite Consulting CWS.xls",
+		"/Users/robw/Documents/projects/rogers/bb10/raptv/raptv-bb10/pom.xml",
+		"/Users/robw/Documents/projects/rogers/bb10/raptv/raptv-bb10/RAPTVLive/pom.xml",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.036.777f931a23255043f6d93888c4d31673dd8f0013",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.035.397b2d2ad93c4fedbba753c668470a5fd06ef225",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.034.e67355090e43a0a04fd0eed2f7c0eb8dc3c67ce6",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.033.21100a724fc6ba40458259f31377d719654f0327",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.032.0aa7ec2ebf581aae3099019f01cd8f6e7f4c7419",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.031.6078a3bbe983a8a6a1098c051e2ddb02dffca2f7",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.030.bd28c3dfca18178f9fd874c9e1ed57159aca4336",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.029.fab6d63a5be21b45dc4e597facdd8f9329cdf126",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.028.72db5b060c913d6c905036d56041ee476aa854c0",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.027.abe209084811dda5cfbcdde4cd671ce3eef3420f",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.026.fc0d6e61cc813893db0ba8b11d9ee4a391774021",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.025.b5fb0fba91b40ffc2c67097f9fea705d2418d5f5",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.024.f2fc4c2ff0f3599e676574d451a8dae5050b0ef4",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.023.c32758261df3a65b772067c7a74fe077a221bb5f",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.022.98ad575f44eeb23db504d63737816e8c15268848",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.021.b76e9d98f59ab70acc9d3f045f7788468acbea4b",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.020.d9ec612666af564c6a261a18f05abe83a4c2f763",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.019.b95c96fd6847f7f2e286937bbd5cd110b12ff3f4",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.018.71931720a59a0691a67a2607e09b4187e873d68d",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.017.adb248223bc436833efa6d7bbee7b3246813aebe",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.016.8f0690d4f96e61992c88e3076edf6c245439d0fa",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.015.b236fc171fd954a3131db9f764958b603478e3e9",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.014.2ea4a15423850de878c78f51abe0299cf6dbaf5b",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.013.ff578c213cbdf83d9e9ec6a65198897dfa644290",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.012.f3bf77215407dd3a3a0db0f135c6c05dd9663dc5",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.011.4773bde1d41483e4dc753e1abfcc7171eeed9749",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.010.8f90d187a4d38d7438e445dcaa3f4adbb17e5b3c",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.009.5087da2c939c1050b2199164f664b164da5054c7",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.008.f69c8c17dbc62cbae476ef9fbe13a16967350e6e",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.007.4dda2cefe26331ba9b84a827f73b42506f665f37",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.006.d0d7e914ceba4c69f71945b003d95d99c7d06348",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.005.a4759ba06236d96296e029a8898b8e4cc73f4580",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.004.2b817b2fd68397ca399798a4ce74177784daca09",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.003.7eac9a79450a40ee796a4db37562a327ab7fff93",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.002.6346c6314f7790ed197baad6850b4b36217a9ebe",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.001.72d7a202a9bfec88929bdb05300b99ea0d229301",
+		"/Users/robw/Documents/projects/notes/timesheets/2014.08.04 Timesheet.txt",
+		"/Users/robw/Documents/projects/notes/rogers/blackberry/2014.08.12 Project Updates.txt",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.037.258427f00e24db843d11ea9d9b907ebe582f1f8f",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.038.6d3bc0d57ed796a0f94a7c5c1e8bc25fb0e9abf7",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.039.ae1c2cb281c0b49a243ce54c15a3b4c1638bdf49",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.040.56a5b1bd22249f7c22825da8c6e929aed62a3651",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.041.e1fe4bb6c7fa293bd5acb05b1c710ae54792e64b",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.042.14055e41ba4e4f0c00b4480bc8c8bc3b8b0547e0",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.043.d814718a9ef55108741f88060af6d40cfa3e96c8",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.044.60b691711b6f512d839fad10a9ba856ce7a01f7d",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.045.6fa15f1b46b05e2d4e87950f520c1176d563b88b",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/src/com/quickplay/vstb/bell/config/exposed/player/BellPlayer.java.046.32dda76b9dec49527ba3dea3cd4a971657718050",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/submodules/android/trace.diff",
+		"/Users/robw/Documents/projects/bell/android/future/android-config-lib/us.diff",
+		"/Users/robw/Documents/projects/notes/notes.sublime-workspace",
+		"/Users/robw/Downloads/67/native/qm/hex",
+		"/Users/robw/Downloads/hmm2/native/qm/RAPTVLive.hex",
+		"/Users/robw/Downloads/RAPTVLive.hex",
+		"/Users/robw/Downloads/RAPTVLive.qm"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"-*moc*,-*.html,*.cpp",
+			"-*moc*,-*.html",
+			"-*moc*,-*.html,*.cpp",
+			"/Users/robw/Documents/projects/bb10,-*moc*,-*.html,*.cpp",
+			"/Users/robw/Documents/projects/bb10,-*moc*,-*.html",
+			"/Users/robw/Documents/projects/bb10,-*moc*",
+			"/Users/robw/Documents/projects/bb10",
+			"/Users/robw/Documents/projects/bb10,*.cpp",
+			"/Users/robw/Documents/projects/bb10",
+			"/Users/robw/Documents/projects/bb10,*.h,*.hpp",
+			"/Users/robw/Documents/projects/bb10",
+			"",
+			"-*.pri,-*Makefile*,-moc*,-.assets.index,/Users/robw/Documents/projects/bb10",
+			"<open folders>,-*.pri,-*Makefile*,-moc*,-.assets.index",
+			"<open folders>,-*.pri,-*Makefile*,-moc*",
+			"<open folders>,-*.pri,-*Makefile*",
+			"<open folders>,-*.pri",
+			"<open folders>",
+			"*.qml",
+			"/Users/robw/Documents/projects/blackberry-client",
+			"/Users/robw/Documents/projects/bb10",
+			"/Users/robw/Documents/projects/blackberry-client",
+			"*.cpp",
+			"<open folders>",
+			"/",
+			"/Users/robw/Documents/projects/bb10",
+			"/Users/robw/Documents/projects/blackberry-client,/Users/robw/Documents/projects/bb10",
+			"",
+			"/Users/robw/Documents/projects/blackberry-client",
+			"/Users/robw/Documents/projects/bb10",
+			"/Users/robw/Documents/projects/blackberry-client",
+			"/Users/robw/Documents/projects/bb10",
+			"/Users/robw/Documents/projects/blackberry-client",
+			"",
+			"*.hpp",
+			"*.cpp"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"3\\.6",
+			"WHITE_LIST",
+			"WHITE",
+			"cert_file",
+			"ssl",
+			"Rights_Device",
+			"bup",
+			"repo",
+			"nexplayer_version",
+			"nextreaming",
+			"nextreaming.version",
+			"nextreaming",
+			"nexplayer",
+			"nextreaming",
+			"authentec",
+			"nex",
+			"drm.version",
+			"insidesecure",
+			"nextreaming",
+			"insidesecure",
+			"nextreaming",
+			"nexplayer_version",
+			"1.62",
+			"[0-9][0-9] E ",
+			"consumeContent",
+			"^12:5[6-9]:",
+			"m3u8",
+			"drm content opened",
+			"mtms",
+			"due to",
+			"consumeContent",
+			"response",
+			"action=129",
+			"\n\n\n\n\n\n\n\n\n\n\n",
+			"action=129",
+			"ception",
+			"$",
+			"^",
+			"404",
+			"%2f",
+			"2001",
+			"root",
+			",",
+			"^/\\*.*",
+			"/*",
+			".*LightsService.*$\\n",
+			".*GpsLocationProvider.*$\\n",
+			"^.*GpsLocationProvider.*$\\n",
+			"^.*LightService.*$\\n",
+			"^$\\n",
+			".*D/libc.*$",
+			"error",
+			"m3u8",
+			"replace",
+			"BELL_LIBRARY_VERSION_NUMBER",
+			"replace",
+			"queuemessage.*pause",
+			"queuemessage",
+			"\\/",
+			".class",
+			"action=",
+			"extendedAttributes",
+			"extended",
+			"wifi",
+			"s.h.i.e.l.d",
+			"pause",
+			"heart.*queue",
+			"Heart.*queue",
+			"heartbeat.*queue",
+			"43",
+			"public BellPlayer",
+			"\\(.*",
+			"*.*",
+			".*USED:",
+			"USED:",
+			"super\\.",
+			"// TODO.*",
+			"device_id",
+			"deviceid",
+			"butt",
+			"utton",
+			"Text",
+			"ButtonText",
+			"ac",
+			"acceptButtonText",
+			"default",
+			"super",
+			"Video.*Player",
+			"action",
+			"<surface",
+			"MVC",
+			"unknown",
+			"error",
+			"\"status\":[^1]",
+			"status\":[^1]",
+			"^",
+			"action=",
+			"BellTvAuthentication",
+			"MTMS",
+			"=214",
+			"MTMS.*error",
+			"action=214",
+			"qpid",
+			"http://",
+			"*.so",
+			"arme",
+			"bi",
+			"arm",
+			"findbugs",
+			"BellLibrary",
+			"BellLibraryManager",
+			"mtms",
+			"Montr",
+			"heart",
+			"variant",
+			"tapeatalk",
+			"network",
+			"uses",
+			"bell",
+			"lib",
+			"translations",
+			"$",
+			"^",
+			"version",
+			"version.*bell",
+			"library.*version",
+			"version",
+			"version.*"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" *(*) and",
+			"            com.quickplay.vstb.bell.config.exposed.listeners.",
+			"/",
+			":",
+			"\\n",
+			",",
+			"",
+			".",
+			" *(*) and",
+			"",
+			"USED:",
+			"mWrapper.",
+			"logUsage();",
+			"svn checkout ",
+			"http://hq-tor-build-01:8000/svn/client/tags/",
+			"\";",
+			"= \"",
+			"http",
+			"+",
+			"",
+			"\\n",
+			",\\n",
+			" -- pom.xml; cp pom.xml \\1.xml",
+			"-- pom.xml; cp pom.xml \\1.xml",
+			"git checkout ",
+			"",
+			"git checkout pom.xml ",
+			"\\1 \\1",
+			"git checkout ",
+			"\n\ninfo symbol ",
+			"\n\n\\012",
+			"\n\n",
+			"\n\ninfo symbol ",
+			"\n\n\n\\012",
+			"\n\n\n",
+			"\n\n\ninfo symbol ",
+			"\n\n\n\\n",
+			"\n\n\n",
+			"",
+			"break _Z",
+			"value=\"\" />",
+			"\\n\\1="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "digisparkProject.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sandbox",
+				"tools/devappserver2/python/sandbox.py"
+			],
+			[
+				"log",
+				"bb10/log.txt"
+			],
+			[
+				"deviceconfi",
+				"bb10/VSTB_Lib/src/configuration/DeviceConfiguration.cpp"
+			],
+			[
+				"networkrequest.h",
+				"bb10/VSTB_Lib/src/dataaccess/NetworkRequest.h"
+			],
+			[
+				"networkrequest",
+				"bb10/VSTB_Lib/src/dataaccess/NetworkRequest.cpp"
+			],
+			[
+				"contentaccessmanager",
+				"bb10/VSTB_Lib/src/tvx/ContentAccessManagerPrivate.cpp"
+			],
+			[
+				"vstb",
+				"blackberry-client/assets/vstb.cfg"
+			],
+			[
+				"versioncheckaction",
+				"bb10/VSTB_Lib/src/vstb/openvideo/VersionCheckAction.cpp"
+			],
+			[
+				"openvideofactory",
+				"bb10/VSTB_Lib/src/vstb/openvideo/OpenVideoFactory.cpp"
+			],
+			[
+				"serveraction",
+				"bb10/VSTB_Lib/src/vstb/openvideo/ServerAction.h"
+			],
+			[
+				"tvxcontentimageassetinterface",
+				"blackberry-client/src/models/content/interfaces/TVXContentImageAssetInterface.hpp"
+			],
+			[
+				"tvxcontent",
+				"blackberry-client/src/models/content/TVXContent.cpp"
+			],
+			[
+				"tvxmodelnode",
+				"blackberry-client/src/models/base/TVXModelNode.cpp"
+			],
+			[
+				"pom.xml",
+				"bell-blackberry-vstb-lib/pom.xml"
+			],
+			[
+				"playermanager",
+				"bb10/VSTB_Lib/src/vstb/public/PlayerManager.h"
+			],
+			[
+				"belllibmanh",
+				"bell-blackberry-vstb-lib/public/BellLibraryManager.h"
+			],
+			[
+				".cproject",
+				"bell-blackberry-vstb-lib/.cproject"
+			],
+			[
+				"vstbbellpro",
+				"bell-blackberry-vstb-lib/VSTB_Bell_Lib.pro"
+			],
+			[
+				"openvideoactionh",
+				"bb10/VSTB_Lib/src/vstb/public/OpenVideoAction.h"
+			],
+			[
+				"bellconfigurationaction",
+				"bell-blackberry-vstb-lib/src/actions/BellConfigurationAction.cpp"
+			],
+			[
+				"qpplayerinter",
+				"bb10/VSTB_Lib/src/vstb/player/QPPlayerInternal.h"
+			],
+			[
+				"qpauthentecplay",
+				"bb10/prPlayer/src/QPAuthentecPlayer.h"
+			],
+			[
+				"configuration",
+				"bb10/VSTB_Lib/src/vstb/configuration/Configuration.cpp"
+			],
+			[
+				"libraryconfiguration",
+				"bb10/VSTB_Lib/src/vstb/configuration/LibraryConfiguration.cpp"
+			],
+			[
+				"librarymanager",
+				"bb10/VSTB_Lib/src/vstb/LibraryManagerInternal.cpp"
+			],
+			[
+				"belllibrarymanager",
+				"bell-blackberry-vstb-lib/public/BellLibraryManager.h"
+			],
+			[
+				"bellib",
+				"bell-blackberry-vstb-lib/public/BellLibraryManager.h"
+			],
+			[
+				"belllib",
+				"bell-blackberry-vstb-lib/src/BellLibraryManager.cpp"
+			],
+			[
+				"version",
+				"bb10/VSTB_Prod_BlackBerry_TestHarness/src/tests/LibraryManagerTests/LibraryManagerVersionCheckTest.cpp"
+			],
+			[
+				"libraryconfig",
+				"bb10/VSTB_Lib/src/vstb/configuration/LibraryConfiguration.h"
+			],
+			[
+				"configurationmanager",
+				"bell-blackberry-vstb-lib/src/BellConfigurationManager.cpp"
+			],
+			[
+				"liobraryconfiguration",
+				"bb10/VSTB_Lib/src/vstb/configuration/LibraryConfigurationParametersInternal.cpp"
+			],
+			[
+				"vstlibrarylogger",
+				"bb10/VSTB_Lib/src/vstb/LibraryLogger.cpp"
+			],
+			[
+				"librarylogger",
+				"bell-blackberry-vstb-lib/src/BellLibraryLogger.cpp"
+			],
+			[
+				"drmvideoplayer.",
+				"bb10/authentec/headers/DRMVideoPlayer.hpp"
+			],
+			[
+				"qpauthentecplayer.h",
+				"bb10/VSTB_Lib/src/vstb/player/QPAuthentecPlayer.h"
+			],
+			[
+				"tvxdataaccessmanager",
+				"blackberry-client/src/models/TVXDataAccessManagerAdapter.cpp"
+			],
+			[
+				"imagerequest",
+				"bb10/VSTB_Lib/src/tvx/ImageRequest.cpp"
+			],
+			[
+				"contentaccessmangerprivate",
+				"bb10/VSTB_Lib/src/tvx/ContentAccessManagerPrivate.cpp"
+			],
+			[
+				"tvxactionfactory",
+				"bb10/VSTB_Lib/src/tvx/actions/TvxActionFactory.cpp"
+			],
+			[
+				"tvximagedownloadaction.cpp",
+				"bb10/VSTB_Lib/src/tvx/actions/TvxImageDownloadAction.cpp"
+			],
+			[
+				"vstb.",
+				"blackberry-client/assets/vstb.cfg"
+			],
+			[
+				"san-sit",
+				"blackberry-client/assets/vstb/san-sit.cfg"
+			],
+			[
+				"vstb.cfg",
+				"blackberry-client/assets/vstb.cfg"
+			],
+			[
+				"san-dit",
+				"blackberry-client/assets/vstb/san-dit.cfg"
+			],
+			[
+				"",
+				"blackberry-client/TVXClient.pro"
+			],
+			[
+				"librarylogger.h",
+				"target/core-bbvstb-lib/vstb/LibraryLogger.h"
+			],
+			[
+				"bar-des",
+				"bar-descriptor.xml"
+			],
+			[
+				"pom.",
+				"pom.xml"
+			],
+			[
+				"qtabbedpane",
+				"src/components/qp/QPTabbedPane.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
