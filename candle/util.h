@@ -8,7 +8,11 @@ inline void tristate(uint8_t pin) {
 }
 
 inline void write(uint8_t enable, uint8_t pin, uint8_t value) {
-    DDRB |= pin;
+    if (enable) {
+        DDRB |= pin;
+    } else {
+        DDRB &= ~pin;
+    }
     if (value) {
         PORTB |= pin;
     } else {
@@ -17,7 +21,7 @@ inline void write(uint8_t enable, uint8_t pin, uint8_t value) {
 }
 
 inline void busyLoop() {
-    
+    // delayMicroseconds(10);
 }
 
 #endif
