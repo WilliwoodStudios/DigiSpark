@@ -29,9 +29,19 @@ void Light::show(uint8_t level) {
     tristate(mYPin);
 }
 
+const uint8_t spread = 30;
+
 void Light::tick(uint32_t time) {
-    --mLevel;
-    if (mLevel==0) {
-        mLevel = 64;
+    uint8_t delta = random()%spread;
+    if (delta >= spread/2) {
+        mLevel += delta - (spread/2);
+        if (mLevel > 64) {
+            mLevel = 64;
+        }
+    } else {
+        mLevel -= delta;
+        if (mLevel > 64) {
+            mLevel = 0;
+        }
     }
 }
