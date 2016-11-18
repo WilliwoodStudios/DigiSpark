@@ -85,7 +85,7 @@ void loop() {
         tick();
     }
     for (uint8_t brightness = 0; brightness < MAX_LEVEL; ++ brightness) {
-        for (uint8_t i =0; i < LIGHT_COUNT; ++i) {
+        for (uint8_t i =0; i < 1; ++i) {
             lights[i].show(brightness);
         }
     }
